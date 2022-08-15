@@ -1,0 +1,22 @@
+db.sqlite3
+.DS_Store
+.idea/
+
+*/migrations
+*/__pycache__/*
+
+# Python
+/venv/
+/env/
+./shortener/__pycache__/
+/shortener/__pycache__/
+**/__pycache__/
+#!**/__pycache__/
+__pycache__/
+/lib/
+/include/
+
+# Django
+**/migrations/
+#!**/migrations/
+.env
